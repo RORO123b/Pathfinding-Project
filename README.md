@@ -103,7 +103,7 @@ void FixedUpdate()
         orientation.localScale = new Vector3(1f, 1f, 1f);
 }
 ```
-![Flying Enemy Path](Images/Flying_Enemy_Path.png)
+![Flying Enemy Path](Assets/Images/Flying_Enemy_Path.png)
 
 ### Ground Enemy Pathfinding
 
@@ -147,7 +147,7 @@ void FixedUpdate()
         orientation.localScale = new Vector3(1f, 1f, 1f);
 }
 ```
-![Flying Enemy Path](Images/Ground_Enemy_Path.png)
+![Ground Enemy Path](Assets/Images/Ground_Enemy_Path.png)
 ## External Sources
 
 - **Pathfinding:** [A\* Pathfinding Project](https://arongranberg.com/astar) by Aron Granberg
